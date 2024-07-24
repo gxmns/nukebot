@@ -5,7 +5,7 @@ guide:
 
 if ur reading this and dont know what do do just follow along:
 
-  **1) download source code (please have node.js downloaded...)**
+  **1) download source code (please have node + discord.js downloaded...)**
 
   **2) create a bot on discord developer portal https://discord.com/developers/applications**
 
