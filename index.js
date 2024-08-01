@@ -37,7 +37,7 @@ client.on('messageCreate', async msg => {
 		})
 		.then(channel => {
 			channel.send("@everyone || https://tenor.com/view/bubba-bubba-dance-bubba-sitting-down-red-bubba-big-bubba-gif-20994792 ||")
-			channel.send("#  nuked by gxmns 😭🙏👎")
+			channel.send("# nuked by gxmns 😭🙏👎")
 		});
 		} 
 
